@@ -19,6 +19,9 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+
+  - title: "TEST"
+    url: files/CV_2025.pdf
     
   - title: "CV"
     url: https://jacobgosselin.github.io/files/CV_2025.pdf
