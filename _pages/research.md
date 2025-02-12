@@ -1,10 +1,9 @@
 ---
-permalink: /publications
+permalink: /research/
 title: "Research"
 author_profile: true
 redirect_from: 
-  - /publications/
-  - /publications.html
+  - /research/
 ---
 
 # Do this instead
