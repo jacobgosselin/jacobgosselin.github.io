@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research"
+title: ""
 author_profile: true
 redirect_from: 
   - "/publications/"
@@ -17,7 +17,7 @@ redirect_from:
 The effect of a negative sectoral shock on GDP depends on how important the shocked sector is as a direct and indirect supplier and how easily sectors can substitute inputs. Past estimates of the parameters that determine these qualities in the US have been restrictive: they have not been allowed to vary across industries or across time. This paper uses a novel empirical strategy to relax those restrictions, by exploiting variation in input expenditure share shifts within industries rather than across industries. The resulting estimates exhibit significant sectoral and temporal heterogeneity, and are dynamically correlated with weighted patents. In a calibrated GE model of multi-sector production, this heterogeneity (1) raises[lowers] the GDP effect of negative shocks to sectors whose customers are less[more] able to substitute inputs (e.g. the GDP effect of ``Chemical products'' shocks rises), (2) raises[lowers] the GDP effect of negative sectoral shocks in years where sectors are less[more] able to substitute inputs, and (3) raises[lowers] the GDP effect of negative shocks to sectors as they become more[less] central input suppliers (e.g. between 1997 and 2023 the GDP effect of ``Paper products'' shocks fell and the GDP effect of ``Computer and electronic products'' shocks rose due to changes in their importance as input suppliers). 
 </details>
 
-Paper, [Data and code](https://github.com/jacobgosselin/HeterogeousSectoralProduction)
+[Paper](https://arxiv.org/pdf/2502.07896), [arXiv](https://arxiv.org/abs/2502.07896), [Data and code](https://github.com/jacobgosselin/HeterogeousSectoralProduction)
 
 
 # Pre-PhD
