@@ -19,7 +19,6 @@ The effect of a negative sectoral shock on GDP depends on how important the shoc
 
 [Paper](https://arxiv.org/pdf/2502.07896), [arXiv](https://arxiv.org/abs/2502.07896), [Data and code](https://github.com/jacobgosselin/HeterogeousSectoralProduction)
 
-
 # Pre-PhD
 
 ### Insurer Competition in the Age of Provider Consolidation: The relationship between hospital and insurance competition in the ACA individual market
