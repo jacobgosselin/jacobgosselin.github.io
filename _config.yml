@@ -32,8 +32,8 @@ author:
   email            : "jacob.gosselin@u.northwestern.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  #googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : https://arxiv.org/search/econ?searchtype=author&query=Gosselin,+J+T
+  googlescholar    : https://scholar.google.com/citations?user=oMRkuwgAAAAJ&hl=en&oi=sra
   #impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
   #semantic         : # URL
