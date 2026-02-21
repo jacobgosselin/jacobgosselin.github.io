@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Jacob Toner Gosselin"
   pronouns         : # example: "she/her"  
-  bio              : "Econ PhD Candidate"
+  bio              : # "Econ PhD Candidate"
   location         : # "Chicago, IL"
   employer         : # "Northwestern University"
   uri              : # URL
