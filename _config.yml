@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Jacob Toner Gosselin"
+  name             : # "Jacob Toner Gosselin"
   pronouns         : # example: "she/her"  
   bio              : # "Econ PhD Candidate"
   location         : # "Chicago, IL"
