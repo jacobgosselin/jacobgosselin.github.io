@@ -21,7 +21,7 @@
   }
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(3 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -90,8 +90,9 @@
   }
 
   img {
-    width: 300px;
-    height: 500px;
+    height: 75vh;
+    width: calc(75vh * 6 / 8);
+    max-width: 100%;
     object-fit: cover;
     object-position: center top;
 
