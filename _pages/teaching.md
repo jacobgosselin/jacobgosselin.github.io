@@ -12,7 +12,7 @@ I served as the teaching assistant for the following courses at Northwestern Uni
 
 Student reviews for these courses are linked above. In all my TA roles, I earned a median ranking of 6/6 in every category. I also earned the Distinguished TA Award in 2024. 
 
-<details>
+<details markdown="1">
 <summary>Here are nice things students have said about me</summary>
 <!-- <br> -->
 
@@ -23,7 +23,7 @@ Student reviews for these courses are linked above. In all my TA roles, I earned
 
 </details>
 
-<details>
+<details markdown="1">
 <summary>Here are funny things students have said about me</summary>
 <!-- <br> -->
 
