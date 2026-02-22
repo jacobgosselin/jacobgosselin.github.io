@@ -90,18 +90,18 @@
   }
 
   img {
-    max-width: 350px;
+    max-width: 500px;
     height: auto;
     object-fit: cover;
     object-position: center top;
 
-    @include breakpoint($large) {
-      width: calc(75vh * 6 / 8);
-      height: 50vh;
-      max-width: 75%;
-      padding: 1px;
-      border: 0px solid var(--global-border-color);
-    }
+    // @include breakpoint($large) {
+    //   width: calc(75vh * 6 / 8);
+    //   height: 50vh;
+    //   max-width: 75%;
+    //   padding: 1px;
+    //   border: 0px solid var(--global-border-color);
+    // }
   }
 }
 
