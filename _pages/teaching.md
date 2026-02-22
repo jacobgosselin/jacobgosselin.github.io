@@ -15,17 +15,21 @@ Student reviews for these courses are linked above. In all my TA roles, I earned
 <details>
 <summary>Here are nice things students have said about me</summary>
 <!-- <br> -->
+
 - "Jake was a very kind TA who clearly cared a great deal about his students' success. He was very passionate and knowledgeable about the material he was covering."
 - "Best Econ TA I have had. Was always well prepared for section and had written solutions that were very easy to follow and actually made sense."
 - "Best TA I have had at Northwestern. Extremely smart and clearly cared about the students which was incredible and a rare experience.
 - "Jacob is always willing to help brainstorm and talk through road blocks that you reach. He is very knowledgeable and can quickly understand your questions and give good insights. Also always very positive and encouraging."
+
 </details>
 
 <details>
 <summary>Here are funny things students have said about me</summary>
 <!-- <br> -->
+
 - "Can get stuck in the unnecessary details and really slow down the pace of the class. Very smart"
 - "Strengths: Very knowledgeable. Weakness: Sometimes overanticipate questions and go off on tangents on advanced topics that is not applicable"
 - "Posts good notes, is enthusiastic about teaching, and understands the topics. However, unclear on his explanations of topics, likes to run circles, and can sometimes confuse students.
 - "Met with him for 5 minutes and wasn't super helpful but wasn't unhelpful and I didn't ask for much so nothing crazy"
+
 </details>
