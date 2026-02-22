@@ -90,13 +90,15 @@
   }
 
   img {
-    height: 50vh;
-    width: calc(75vh * 6 / 8);
-    max-width: 100%;
+    width: 180px;
+    height: 240px;
     object-fit: cover;
     object-position: center top;
 
     @include breakpoint($large) {
+      width: calc(75vh * 6 / 8);
+      height: 50vh;
+      max-width: 100%;
       padding: 0px;
       border: 0px solid var(--global-border-color);
     }
