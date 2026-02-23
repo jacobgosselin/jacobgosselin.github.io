@@ -30,5 +30,6 @@ Student reviews for these courses are linked above. In all my TA roles, I earned
 - "Strengths: Very knowledgeable. Weakness: Sometimes overanticipate questions and go off on tangents on advanced topics that is not applicable"
 - "Posts good notes, is enthusiastic about teaching, and understands the topics. However, unclear on his explanations of topics, likes to run circles, and can sometimes confuse students.
 - "Met with him for 5 minutes and wasn't super helpful but wasn't unhelpful and I didn't ask for much so nothing crazy"
+- "I do not have any comments"
 
 </details>
