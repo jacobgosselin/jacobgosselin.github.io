@@ -1,13 +1,13 @@
 ---
 permalink: /research/
-title: ""
+title: "Research"
 author_profile: false
 redirect_from: 
   - "/publications/"
   - "/publications.html"
 ---
 
-# Working papers
+# Working Papers
 
 ### Sector-Specific Substitution and the Effect of Sectoral Shocks
 
@@ -20,9 +20,10 @@ How a shock to an individual sector propagates to the prices of other sectors an
 
 [Paper](https://arxiv.org/pdf/2502.07896), [arXiv](https://arxiv.org/abs/2502.07896), [Data and code](https://github.com/jacobgosselin/HeterogeousSectoralProduction)
 
+
 # Pre-PhD
 
-### Insurer Competition in the Age of Provider Consolidation: The relationship between hospital and insurance competition in the ACA individual market
+### Insurer Competition in the Age of Provider Consolidation
 
 <details>
 <summary>Abstract</summary>
