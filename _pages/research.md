@@ -10,8 +10,11 @@ redirect_from:
 # Working Papers
 
 ## The Rise of Negative Earnings and Demand Shifting Investment
+
 Joint with [Dalton Rongxuan Zhang](https://sites.google.com/view/daltonrxzhang/dalton-zhang)
+
 Last updated: May 2026
+
 <details>
 <summary>Abstract</summary>
 <!-- <br> -->
@@ -22,7 +25,9 @@ We document the rise of negative earnings between 1980 and 2019: a secular incre
 [Paper](https://arxiv.org/pdf/2605.02680), [arXiv](https://arxiv.org/abs/2605.02680), [Code](https://github.com/jacobgosselin/DemandShifting/)
 
 ## Sector-Specific Substitution and the Effect of Sectoral Shocks
+
 Last updated: February 2026
+
 <details>
 <summary>Abstract</summary>
 <!-- <br> -->
@@ -36,7 +41,9 @@ How a shock to an individual sector propagates to the prices of other sectors an
 # Pre-PhD
 
 ## Insurer Competition in the Age of Provider Consolidation
+
 (Undergraduate Thesis, 2019)
+
 <details>
 <summary>Abstract</summary>
 <!-- <br> -->
