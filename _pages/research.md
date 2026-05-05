@@ -9,8 +9,20 @@ redirect_from:
 
 # Working Papers
 
-### Sector-Specific Substitution and the Effect of Sectoral Shocks
+## The Rise of Negative Earnings and Demand Shifting Investment
+Joint with [Dalton Rongxuan Zhang](https://sites.google.com/view/daltonrxzhang/dalton-zhang)
+Last updated: May 2026
+<details>
+<summary>Abstract</summary>
+<!-- <br> -->
+We document the rise of negative earnings between 1980 and 2019: a secular increase in the percent of firms reporting losses, both among public firms and in the broader universe of US corporations, and a secular increase in the persistence of losses year-to-year among public firms. This rise has occurred alongside a spreading of the sales and earnings distribution and a recomposition of firm spending away from production costs and traditional investment and towards sales general and administrative expenses. We rationalize these phenomena with a model of heterogenous firms engaging in supply and demand shifting investment. Our model includes a scale elasticity of demand determining the relationship between the intensive margin of demand (demand per customer) and the extensive margin of demand (number of customers). We are able to quantitatively match the rise in reported losses and qualitatively match (1) the increased persistence of losses, (2) the spreading of the sales and earning distribution and (3) the recomposition of firm spending with this parameter as the single driver of changes across steady state equilibria. The rise in the scale elasticity associated with the increase in reported losses has non-trivial aggregate implications: in our model it lowers GDP by -9.1% by reallocating labor away from goods and capital production and reallocating demand away from productive firms.
 
+</details>
+
+[Paper](https://arxiv.org/pdf/2605.02680), [arXiv](https://arxiv.org/abs/2605.02680), [Data and code](https://github.com/jacobgosselin/HeterogeousSectoralProduction)
+
+## Sector-Specific Substitution and the Effect of Sectoral Shocks
+Last updated: February 2026
 <details>
 <summary>Abstract</summary>
 <!-- <br> -->
@@ -23,8 +35,8 @@ How a shock to an individual sector propagates to the prices of other sectors an
 
 # Pre-PhD
 
-### Insurer Competition in the Age of Provider Consolidation
-
+## Insurer Competition in the Age of Provider Consolidation
+(Undergraduate Thesis, 2019)
 <details>
 <summary>Abstract</summary>
 <!-- <br> -->
