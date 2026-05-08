@@ -22,7 +22,7 @@ We document the rise of negative earnings between 1980 and 2019: a secular incre
 
 </details>
 
-[Paper](https://arxiv.org/pdf/2605.02680), [arXiv](https://arxiv.org/abs/2605.02680), [Code](https://github.com/jacobgosselin/DemandShifting/)
+[Paper](https://jacobgosselin.github.io/files/NegEarnings_DemandShifting.pdf), [arXiv](https://arxiv.org/abs/2605.02680), [Code](https://github.com/jacobgosselin/DemandShifting/)
 
 ## Sector-Specific Substitution and the Effect of Sectoral Shocks
 
