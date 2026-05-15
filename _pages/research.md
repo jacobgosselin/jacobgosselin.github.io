@@ -26,7 +26,7 @@ We document the rise of negative earnings between 1980 and 2019: a secular incre
 
 ## Sector-Specific Substitution and the Effect of Sectoral Shocks
 
-Last updated: February 2026
+Last updated: May 2026
 
 <details>
 <summary>Abstract</summary>
@@ -35,7 +35,7 @@ How a shock to an individual sector propagates to the prices of other sectors an
 
 </details>
 
-[Paper](https://arxiv.org/pdf/2502.07896), [arXiv](https://arxiv.org/abs/2502.07896), [Data and code](https://github.com/jacobgosselin/HeterogeousSectoralProduction)
+[Paper](https://jacobgosselin.github.io/files/SectoralSubstitution.pdf), [arXiv](https://arxiv.org/abs/2502.07896), [Data and code](https://github.com/jacobgosselin/HeterogeousSectoralProduction)
 
 
 # Pre-PhD
