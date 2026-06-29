@@ -26,12 +26,12 @@ We document the rise of negative earnings between 1980 and 2019: a secular incre
 
 ## Sector-Specific Substitution and the Effect of Sectoral Shocks
 
-Last updated: May 2026
+Last updated: June 2026
 
 <details>
 <summary>Abstract</summary>
 <!-- <br> -->
-How a shock to an individual sector propagates to the prices of other sectors and aggregates to GDP depends on how easily sectoral goods can be substituted in production, which is determined by the intermediate input substitution elasticity. Past estimates of this parameter in the US have been restrictive: they have assumed a common elasticity across industries, and have ignored the use of imports in production. This paper uses a novel empirical strategy to produce new estimates without these restrictions, by exploiting variation in import ratios and in input expenditure shares within industries rather than across industries.  I find that sectors differ meaningfully in their ability to substitute inputs in production, and that the uniform estimate of the intermediate input substitution elasticity is biased downwards relative to the median sector-specific estimate. Relative to imposing the uniform elasticity, sector-specific substitution causes domestic prices to rise more in response to oil import shocks and less in response to semiconductor import shocks. It also implies the average GDP response to a sectoral business cycle is 0.35% higher, making sectoral business cycles 17.7% less costly.
+How a shock to an individual sector propagates to the prices of other sectors and aggregates to GDP depends on how easily sectoral goods can be substituted in production, which is determined by the intermediate input substitution elasticity. Past estimates of this parameter in the US have been restrictive: they have assumed a common elasticity across industries, and have ignored the use of imports in production. This paper uses a novel empirical strategy to produce new estimates without these restrictions, by exploiting variation in import ratios and in input expenditure shares within industries rather than across industries.  I find that sectors differ meaningfully in their ability to substitute inputs in production, and that the uniform estimate of the intermediate input substitution elasticity is biased downwards relative to the median sector-specific estimate. Relative to imposing the uniform elasticity, sector-specific substitution causes domestic prices to rise more in response to oil import shocks and less in response to semiconductor import shocks. It also implies the average GDP response to a sectoral business cycle is 0.423% higher, making sectoral business cycles 25.9% less costly.
 
 </details>
 
