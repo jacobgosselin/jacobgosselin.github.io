@@ -9,7 +9,7 @@ redirect_from:
 
 # Working Papers
 
-### The Rise of Long Run Losses, Intangible Deepening, and Demand Shifting Investment
+## The Rise of Long Run Losses, Intangible Deepening, and Demand Shifting Investment
 
 Joint with [Dalton Rongxuan Zhang](https://sites.google.com/view/daltonrxzhang/dalton-zhang)<br>
 Last updated: August 2026
@@ -23,7 +23,7 @@ In the universe of US public firms between 1980 and 2019, we find (1) a rise in 
 [Slides](https://jacobgosselin.github.io/files/NegEarnings_DemandShifting_Slides.pdf), [Paper](https://jacobgosselin.github.io/files/NegEarnings_DemandShifting.pdf) (out of date, new draft coming soon!)<br>
 **Presentations**: Federal Reserve Board of Governors (2026)
 
-### Sector-Specific Substitution and the Effect of Sectoral Shocks
+## Sector-Specific Substitution and the Effect of Sectoral Shocks
 Last updated: June 2026
 <details>
 <summary>Abstract</summary>
