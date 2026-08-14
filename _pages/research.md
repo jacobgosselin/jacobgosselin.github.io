@@ -9,11 +9,12 @@ redirect_from:
 
 # Working Papers
 
-## The Rise of Long Run Losses, Intangible Deepening, and Demand Shifting Investment
+### The Rise of Long Run Losses, Intangible Deepening, and Demand Shifting Investment
 
 Joint with [Dalton Rongxuan Zhang](https://sites.google.com/view/daltonrxzhang/dalton-zhang)
 
-Last updated: August 2026
+Last updated: August 2026 
+
 Presentations: Federal Reserve Board of Governors (2026)
 
 <details>
@@ -25,9 +26,10 @@ In the universe of US public firms between 1980 and 2019, we find (1) a rise in 
 
 [Slides](https://jacobgosselin.github.io/files/NegEarnings_DemandShifting_Slides.pdf), [Paper](https://jacobgosselin.github.io/files/NegEarnings_DemandShifting.pdf) (out of date, new draft coming soon!)
 
-## Sector-Specific Substitution and the Effect of Sectoral Shocks
+### Sector-Specific Substitution and the Effect of Sectoral Shocks
 
 Last updated: June 2026
+
 Presentations: Federal Reserve Board of Governors (2026), NASMES (2026), Midwest Macro (2026)
 
 <details>
@@ -38,20 +40,3 @@ How a shock to an individual sector propagates to the prices of other sectors an
 </details>
 
 [Paper](https://jacobgosselin.github.io/files/SectoralSubstitution.pdf), [arXiv](https://arxiv.org/abs/2502.07896), [Data and code](https://github.com/jacobgosselin/HeterogeousSectoralProduction)
-
-
-# Pre-PhD
-
-## Insurer Competition in the Age of Provider Consolidation
-
-(Undergraduate Thesis, 2019)
-
-<details>
-<summary>Abstract</summary>
-<!-- <br> -->
-This paper investigates the impact of hospital competition (or lack thereof) on insurer participation in the ACA's individual market. Using public data from CMS, and private data from the American Hospital Association (AHA), I construct the Herfindahl–Hirschman Index (HHI)  for hospital and insurer markets at the county-level in 34 of the 36 states using federally facilitated marketplaces, across 2015 and 2016 (hospital HHI is lagged by one year). I fit a linear model on 2063 counties across two years in these states, controlling for county-level covariates and fixed effects for year-"rating area" (a geographic designation created by the ACA,  which typically amounts to a collection of counties). I estimate my parameters using OLS. I find higher hospital HHI levels are associated with higher insurer HHI levels at a coefficient of .033, log linearized. I lay the groundwork for further analysis once more years of data are available, contributing to the existing literature by focusing on insurer competition rather than premium price as my primary outcome, leveraging "rating areas" for better model specification, and outlining a novel approach to hospital market HHI construction using hospital "radii" rather than pre-existing geographic bounds.
-</details>
-
-[Paper](https://jacobgosselin.github.io/files/pre_PhD.pdf)
-
-
