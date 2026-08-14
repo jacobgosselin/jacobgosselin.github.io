@@ -9,20 +9,20 @@ redirect_from:
 
 # Working Papers
 
-## The Rise of Negative Earnings and Demand Shifting Investment
+## The Rise of Long Run Losses, Intangible Deepening, and Demand Shifting Investment
 
 Joint with [Dalton Rongxuan Zhang](https://sites.google.com/view/daltonrxzhang/dalton-zhang)
 
-Last updated: May 2026
+Last updated: August 2026
 
 <details>
 <summary>Abstract</summary>
 <!-- <br> -->
-We document the rise of negative earnings between 1980 and 2019: a secular increase in the percent of firms reporting losses, both among public firms and in the broader universe of US corporations, and a secular increase in the persistence of losses year-to-year among public firms. This rise has occurred alongside a spreading of the sales and earnings distribution and a recomposition of firm spending away from production costs and traditional investment and towards selling, general and administrative expenses (SG&A). Motivated by prior literature, we consider SG&A spending a form of intangible investment and estimate the corresponding "customer capital" stock using the perpetual inventory method. We find that the sales elasticity of customer capital has secularly risen since 1980. We rationalize these phenomena with a model of heterogenous firms engaging in supply and demand shifting investment. Our model includes a scale elasticity of demand determining the relationship between the intensive margin of demand (demand per customer) and the extensive margin of demand (number of customers). We are able to quantitatively match the rise in reported losses and qualitatively match (1) the increased persistence of losses, (2) the spreading of the sales and earning distribution and (3) the recomposition of firm spending with this parameter as the single driver of changes across steady state equilibria. The rise in the scale elasticity associated with the increase in reported losses is in line with the rise in the sales elasticity of customer capital we estimate in the data, and has non-trivial aggregate implications: in our model it lowers GDP by -9.1% by reallocating labor away from goods and capital production and reallocating demand away from productive firms.
+In the universe of US public firms between 1980 and 2019, we find (1) a rise in intangible investment in both R\&D and sales and marketing relative to traditional physical capital expenditures, (2) a rise in the revenue elasticities of intangible capital stocks relative to physical capital and labor, and (3) a rise in the average number of consecutive years a firm reports negative profits, driven by firms outspending revenue for more consecutive years early in their lifecycle. We rationalize these trends with a model of heterogenous firms investing in physical capital, intangible capital, and customer capital. In our model, we treat intangible capital as non-rival across customers, e.g. the physical capital and labor embodied in an iPhone isn't shared across Apple's customers, but the intangible capital of IOS is. This assumption links the returns of both intangible capital and customer capital to the output elasticity of intangible capital. With a specified demand system, we modify ACF production function estimation to recover the structural parameters that determine revenue elasticities in rolling windows, fully estimating the production function while accounting for customer capital's role in determining revenue. We find that the output elasticity of intangible capital has risen since 1980, which in our model can account for each of the trends we document: First, firms invest more in intangible capital *and* customer capital capital. Second, more firms lose more money early in their life because they want to grow larger customer bases and don’t internalize that customer investment is business stealing. We also get some spreading of the sales distribution and an increase in the Gini coefficient of sales through this novel pathway of production technology shifts changing customer accumulation decisions. 
 
 </details>
 
-[Paper](https://jacobgosselin.github.io/files/NegEarnings_DemandShifting.pdf), [arXiv](https://arxiv.org/abs/2605.02680), [Code](https://github.com/jacobgosselin/DemandShifting/)
+[Slides](https://jacobgosselin.github.io/files/NegEarnings_DemandShifting_Slides.pdf), [Paper](https://jacobgosselin.github.io/files/NegEarnings_DemandShifting.pdf) (out of date, new draft coming soon!)
 
 ## Sector-Specific Substitution and the Effect of Sectoral Shocks
 
