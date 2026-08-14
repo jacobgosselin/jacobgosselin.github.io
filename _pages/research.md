@@ -14,6 +14,7 @@ redirect_from:
 Joint with [Dalton Rongxuan Zhang](https://sites.google.com/view/daltonrxzhang/dalton-zhang)
 
 Last updated: August 2026
+Presentations: Federal Reserve Board of Governors (2026)
 
 <details>
 <summary>Abstract</summary>
@@ -27,6 +28,7 @@ In the universe of US public firms between 1980 and 2019, we find (1) a rise in 
 ## Sector-Specific Substitution and the Effect of Sectoral Shocks
 
 Last updated: June 2026
+Presentations: Federal Reserve Board of Governors (2026), NASMES (2026), Midwest Macro (2026)
 
 <details>
 <summary>Abstract</summary>
