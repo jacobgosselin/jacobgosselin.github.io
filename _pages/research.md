@@ -11,8 +11,8 @@ redirect_from:
 
 ### The Rise of Long Run Losses, Intangible Deepening, and Demand Shifting Investment
 
-Joint with [Dalton Rongxuan Zhang](https://sites.google.com/view/daltonrxzhang/dalton-zhang)
-Last updated: August 2026 
+Joint with [Dalton Rongxuan Zhang](https://sites.google.com/view/daltonrxzhang/dalton-zhang)<br>
+Last updated: August 2026
 <details>
 <summary>Abstract</summary>
 <!-- <br> -->
@@ -20,7 +20,7 @@ In the universe of US public firms between 1980 and 2019, we find (1) a rise in 
 
 </details>
 
-[Slides](https://jacobgosselin.github.io/files/NegEarnings_DemandShifting_Slides.pdf), [Paper](https://jacobgosselin.github.io/files/NegEarnings_DemandShifting.pdf) (out of date, new draft coming soon!)
+[Slides](https://jacobgosselin.github.io/files/NegEarnings_DemandShifting_Slides.pdf), [Paper](https://jacobgosselin.github.io/files/NegEarnings_DemandShifting.pdf) (out of date, new draft coming soon!)<br>
 **Presentations**: Federal Reserve Board of Governors (2026)
 
 ### Sector-Specific Substitution and the Effect of Sectoral Shocks
@@ -32,5 +32,5 @@ How a shock to an individual sector propagates to the prices of other sectors an
 
 </details>
 
-[Paper](https://jacobgosselin.github.io/files/SectoralSubstitution.pdf), [arXiv](https://arxiv.org/abs/2502.07896), [Data and code](https://github.com/jacobgosselin/HeterogeousSectoralProduction)
+[Paper](https://jacobgosselin.github.io/files/SectoralSubstitution.pdf), [arXiv](https://arxiv.org/abs/2502.07896), [Data and code](https://github.com/jacobgosselin/HeterogeousSectoralProduction)<br>
 **Presentations**: Federal Reserve Board of Governors (2026), NASMES (2026), Midwest Macro (2026)
