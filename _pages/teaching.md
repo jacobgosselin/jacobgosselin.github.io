@@ -7,7 +7,7 @@ author_profile: false
 I served as the teaching assistant for the following courses at Northwestern University:
 - ECON 362: International Finance ([Fall 2023](/files/ECON_362-Fall_2023.pdf), [Winter 2024](/files/ECON_362-Winter_2024.pdf))
 - ECON 450: Graduate Industrial Organization ([Fall 2024](/files/ECON_450-Fall_2024.pdf))
-- MMSS 398: Senior Thesis Seminar ([Winter 2025](/files/MMSS_398-Winter_2025.pdf), [Fall 2025](/files/MMSS_398-Fall_2025.pdf))
+- MMSS 398: Senior Thesis Seminar ([Winter 2025](/files/MMSS_398-Winter_2025.pdf), [Fall 2025](/files/MMSS_398-Fall_2025.pdf), [Winter 2026](/files/MMSS_398-Winter_2026.pdf), [Spring 2026](/files/MMSS_398-Spring_2026.pdf))
 
 Student reviews for these courses are linked above. In all my TA roles, I earned a median ranking of 6/6 in every category. I also earned the Distinguished TA Award in 2024. 
 
