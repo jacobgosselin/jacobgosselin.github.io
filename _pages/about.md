@@ -11,4 +11,4 @@ I am a PhD Candidate at Northwestern University studying macroeconomics. I am br
 
 In Summer 2026, I was a Dissertation Fellow at the Federal Reserve Board of Governors. **I am currently a visiting scholar at the Federal Reserve Bank of Chicago.**
 
-Before my PhD, I was a pre-doc at Northwestern University and an [AmeriCorps VISTA](https://indyeast.org/current-americorps-vistas-reflect-on-their-time-with-the-indyeast-promise-zone/) at the IndyEast Promise Zone. I also ran [cross-country and track](https://www.youtube.com/watch?v=Eidacczk0gg) at the University of Chicago.
+Before my PhD, I was a pre-doc at Northwestern University and an [AmeriCorps VISTA](https://indyeast.org/current-americorps-vistas-reflect-on-their-time-with-the-indyeast-promise-zone/) at the IndyEast Promise Zone. I also ran [cross-country and track](https://www.youtube.com/watch?v=Eidacczk0gg) at the University of Chicago, and [still run now](https://www.athlinks.com/athletes/515717959) (just enough to stay sane). 
