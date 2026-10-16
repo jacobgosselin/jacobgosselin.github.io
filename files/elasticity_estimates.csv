@@ -1,0 +1,70 @@
+"Industry_Code","Industry_Desc","elasticity","std_err"
+"111CA","Farms",0.357541759282955,0.113281144315322
+"113FF","Forestry, fishing, and related activities",1.43502097909985e-20,0.16450369397367
+"211","Oil and gas extraction",8.1661163703806e-20,0.0910896010669538
+"212","Mining, except oil and gas",0.209419226372892,0.0965580914027499
+"213","Support activities for mining",0.437872033769755,0.096068829204434
+"22","Utilities",0.248780457744951,0.104067320345918
+"23","Construction",0.460817654851776,0.0659342495670247
+"311FT","Food and beverage and tobacco products",4.28268658679603e-25,0.2171240880673
+"313TT","Textile mills and textile product mills",0.506114754565621,0.209065262766875
+"315AL","Apparel and leather and allied products",1.24059403478539,0.178734048094156
+"321","Wood products",0.447004949026546,0.0919002190954156
+"322","Paper products",6.55415202160614e-22,0.109456504524278
+"323","Printing and related support activities",0.67319040693469,0.221909681373011
+"324","Petroleum and coal products",2.16350283069673e-21,0.251111955971905
+"325","Chemical products",0.171377315370081,0.0994875350856014
+"326","Plastics and rubber products",0.0223267614946705,0.0908797300690815
+"327","Nonmetallic mineral products",0.0931421103011571,0.0845781707079178
+"331","Primary metals",0.419226725661284,0.0814640876122209
+"332","Fabricated metal products",0.321592053098634,0.186576792136856
+"333","Machinery",0.422310057322269,0.167820041679259
+"334","Computer and electronic products",0.366307284853344,0.15943456917782
+"335","Electrical equipment, appliances, and components",0.434480650220961,0.118666158508841
+"3361MV","Motor vehicles, bodies and trailers, and parts",0.52959583159141,0.136405994247308
+"3364OT","Other transportation equipment",0.406606426924592,0.180512455373422
+"337","Furniture and related products",0.421242490137625,0.146690713100997
+"339","Miscellaneous manufacturing",0.529090092694348,0.0682854497517061
+"42","Wholesale trade",0.638835642115601,0.143485973717267
+"441","Motor vehicle and parts dealers",0.291054921578903,0.113583039356423
+"445","Food and beverage stores",0.227674388343538,0.137655073716683
+"452","General merchandise stores",0.897284638050878,0.379150519480675
+"481","Air transportation",0.117817906582911,0.131556453635716
+"482","Rail transportation",2.13573527711727e-24,0.131685546525018
+"483","Water transportation",7.48604269668097e-23,0.335927156625039
+"484","Truck transportation",0.314373665432574,0.122366354885814
+"485","Transit and ground passenger transportation",0.784349920651728,0.166713951201128
+"486","Pipeline transportation",0.419148793739148,0.279509844642036
+"487OS","Other transportation and support activities",0.438219883908555,0.156070923289833
+"493","Warehousing and storage",0.171174810180918,0.165014316406858
+"4A0","Other retail",0.630191914352762,0.127790778975599
+"511","Publishing industries, except internet (includes software)",0.985011920915542,0.12515087388344
+"512","Motion picture and sound recording industries",0.710758212315944,0.2320605727341
+"513","Broadcasting and telecommunications",0.832010231101547,0.1767112360587
+"514","Data processing, internet publishing, and other information services",0.5325811758379,0.181246537926155
+"521CI","Federal Reserve banks, credit intermediation, and related activities",0.439712297686322,0.136642773051785
+"523","Securities, commodity contracts, and investments",0.571006325097487,0.111392404568271
+"524","Insurance carriers and related activities",1.23506608109525,0.590534275996958
+"525","Funds, trusts, and other financial vehicles",0.57791467202672,0.405961199424349
+"532RL","Rental and leasing services and lessors of intangible assets",0.288851843223972,0.109830425353088
+"5411","Legal services",0.504807673753134,0.213148261526988
+"5412OP","Miscellaneous professional, scientific, and technical services",0.658808018651707,0.178214423639581
+"5415","Computer systems design and related services",0.847609801019785,0.216163216033837
+"55","Management of companies and enterprises",0.675165948160976,0.186757146155739
+"561","Administrative and support services",0.388639871104039,0.118099910055952
+"562","Waste management and remediation services",0.119805144259904,0.185150857472559
+"61","Educational services",0.436259447353703,0.136606706403227
+"621","Ambulatory health care services",0.812252556318445,0.116671178431781
+"622","Hospitals",0.0490659726091513,0.0998482637882629
+"623","Nursing and residential care facilities",0.205332107293298,0.128398655001838
+"624","Social assistance",2.8110877457369,0.441020522953007
+"711AS","Performing arts, spectator sports, museums, and related activities",0.54375760321371,0.305172472611355
+"713","Amusements, gambling, and recreation industries",0.158002033126306,0.0918028271181551
+"721","Accommodation",0.127972156394897,0.123644341410581
+"722","Food services and drinking places",0.236521659979326,0.0863607327529071
+"81","Other services, except government",0.191974995928804,0.0907640050253091
+"HS","Housing",2.27101382951405,0.656708214088614
+"ORE","Other real estate",1.28330828114048e-10,0.268223678266048
+"Uniform","Uniform Input Substitution Elasticity",0.255902250450173,0.0215607296511115
+"Armington","Armington Substitution Elasticity",1.44654903898448,0.182871359531764
+"Household","Household Substitution Elasticity",0.567970042228477,0.0797984019738801

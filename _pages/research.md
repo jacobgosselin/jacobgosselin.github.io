@@ -32,5 +32,5 @@ How a shock to an individual sector propagates to the prices of other sectors an
 
 </details>
 
-[Paper](https://jacobgosselin.github.io/files/SectoralSubstitution.pdf), [arXiv](https://arxiv.org/abs/2502.07896), [Data and code](https://github.com/jacobgosselin/HeterogeousSectoralProduction)<br>
+[Paper](https://jacobgosselin.github.io/files/SectoralSubstitution.pdf), [arXiv](https://arxiv.org/abs/2502.07896), [Elasticity estimates](https://jacobgosselin.github.io/files/elasticity_estimates.csv)<br>
 **Presentations**: Federal Reserve Board of Governors (2026), NASMES (2026), Midwest Macro (2026)
